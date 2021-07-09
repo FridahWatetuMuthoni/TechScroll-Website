@@ -120,3 +120,9 @@ img {
     }
 }
 
+@media (min-width:1140px){
+    .main{
+        max-width: 1140px;
+        margin: 0 auto;
+    }
+}
